@@ -20,4 +20,3 @@ This project is a basic backend for an ONDC platform aimed at connecting farmers
     ```bash
     python run.py
     ```
-# ONDC-Food-Platform
